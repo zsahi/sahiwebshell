@@ -1,6 +1,6 @@
 <?php 
-$u = "admin";
-$p = "61134b3a07ea8bee089d0ae8e60ad552"; //sahi password
+$u = "admin"; // username is admin
+$p = "61134b3a07ea8bee089d0ae8e60ad552"; //password is "sahi"
 
 header("Pragma: no-cache");
 header("Cache-Control: no-store");
